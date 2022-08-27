@@ -12,3 +12,4 @@ Size | Qty
 M3x8 | 4
 M3 T-Nut | 2
 
+![Top Corner Cable Cover](Images/z_chain_cover.JPG)
