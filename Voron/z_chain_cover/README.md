@@ -10,6 +10,6 @@ Covers the hole on the deck panel for the z chain.
 Size | Qty
 --- | ---
 M3x8 | 4
-M3 T-Nut | 2
+M3 T-Nut | 4
 
 ![Top Corner Cable Cover](Images/z_chain_cover.JPG)
