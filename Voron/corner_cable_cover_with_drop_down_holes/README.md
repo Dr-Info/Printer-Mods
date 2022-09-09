@@ -1,10 +1,10 @@
 # Top Corner Cable Cover with Drop Down Holes (LED Wires)
 
 This is originally based off of samwiseg0 mod 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/corner_cable_hide
+<br /> https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/corner_cable_hide
 
 Modified LDO's PCB splitter spacer
-https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
+<br /> https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
 
 Covers cables that are running around the top corners of 2.4R2 extrusions behind the Z idlers with drop down holes around the vertical extrusions and inline holes with cutouts to keep the wire management as clean as possible.
 
@@ -29,9 +29,9 @@ M3x8 | 2
 M3 T-Nut | 2
 
 **Changelog**
-09/09/22 
-Rev 02 - MINOR REVISION - Changed dimensions of cable cover with drop holes to prevent Z idlers from rubbing and reduced height to maximize Z height. 
-Rev 01 - NEW - Created cable cover with a cutout section for the LDO LED PCB splitter due to limited Z height when PCB is installed on the Z 2020 extrusions. If following the recommended wiring path then use the one for right, but I also created a left version. You will have to use the my modified version of the LED Splitter Spacer since the LDO version is too wide. Use the same hardware used for the LDO version.
+<br /> 09/09/22 
+<br /> Rev 02 - MINOR REVISION - Changed dimensions of cable cover with drop holes to prevent Z idlers from rubbing and reduced height to maximize Z height. 
+<br /> Rev 01 - NEW - Created cable cover with a cutout section for the LDO LED PCB splitter due to limited Z height when PCB is installed on the Z 2020 extrusions. If following the recommended wiring path then use the one for right, but I also created a left version. You will have to use the my modified version of the LED Splitter Spacer since the LDO version is too wide. Use the same hardware used for the LDO version.
  
 ![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_front.JPG)
 
