@@ -37,11 +37,11 @@ M3 T-Nut | 2
 
 ![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_bottom.JPG)
 
-![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_right.JPG)
+![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_right.JPG.JPG)
 
-![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_left.JPG)
+![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_right.JPG)
 
 ![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_installed.JPG)
 
-![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_left_right_installed.JPG)
+![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_left_right_installed.JPG)
 
