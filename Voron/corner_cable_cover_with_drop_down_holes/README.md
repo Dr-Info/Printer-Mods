@@ -6,9 +6,7 @@ This is originally based off of samwiseg0 mod
 Modified LDO's PCB splitter spacer
 <br /> https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
 
-Covers cables that are running around the top corners of 2.4R2 extrusions behind the Z idlers with drop down holes around the vertical extrusions and inline holes with cutouts to keep the wire management as clean as possible.
-
-Holes are big enough to allow 2 pin microfit connectors pass through.
+Covers cables that are running around the top corners of 2.4R2 extrusions behind the Z idlers with drop down holes around the vertical extrusions and inline holes with cutouts to keep the wire management as clean as possible. Holes are big enough to allow 2 pin microfit connectors pass through.
 
 NEW - Modified the existing design to all the LDO LED splitter PCB to be mounted on the back-upper 2020 extrusion. There's a cutout for the splitter PCB and spacer. This should allow you to use the max Z height of the stock LDO config.
 
