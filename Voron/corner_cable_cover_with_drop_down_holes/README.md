@@ -20,7 +20,7 @@ Covers cables that are running around the top corners of 2.4R2 extrusions behind
   * No supports needed
 
 ### BOM
-
+**per cover**
 Size | Qty
 --- | ---
 M3x8 or 10 | 2
