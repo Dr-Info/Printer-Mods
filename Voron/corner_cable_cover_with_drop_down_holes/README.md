@@ -23,7 +23,7 @@ Covers cables that are running around the top corners of 2.4R2 extrusions behind
 
 Size | Qty
 --- | ---
-M3x8 | 2
+M3x8 or 10 | 2
 M3 T-Nut | 2
 
 **Changelog**
