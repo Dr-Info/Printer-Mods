@@ -13,7 +13,7 @@ Holes are big enough to allow 2 pin microfit connectors pass through.
 NEW - Modified the existing design to all the LDO LED splitter PCB to be mounted on the back-upper 2020 extrusion. There's a cutout for the splitter PCB and spacer. This should allow you to use the max Z height of the stock LDO config.
 
 **CAUTION**
-Check your max Z travel as there may be some loss.
+<br /> Check your max Z travel as there may be some loss.
 
 ### Printing
   * Print 1 cover per LED strip
