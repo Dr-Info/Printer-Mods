@@ -14,3 +14,8 @@ This mod enables the you to utilize the rear skirts, power and keystone, in your
 ### BOM
 Same hardware for mounting skirts for Voron V2.4.
 
+![V2.4R2_Z-Drive_Motor_Tension_Mod_Rear_Skirts](Images/Filtered_Inlet_Skirt_Mod.JPG)
+
+![V2.4R2_Z-Drive_Motor_Tension_Mod_Rear_Skirts](Images/IEC-GS_Skirt_Mod.JPG)
+
+![V2.4R2_Z-Drive_Motor_Tension_Mod_Rear_Skirts](Images/Keystone_Skirt_Mod.JPG)
