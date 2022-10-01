@@ -4,7 +4,7 @@ Credit for the Mod goes to Edward Yeeks for the orginal design and Skohls for up
 https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod
 
 This mod enables the you to utilize the rear skirts, power and keystone, in your V2.4R2 while still being able to use the Motor Tensioner Mod.
-**NOTE: heat set insert holes are in a new location so you will have to reposition your bottom panel clips and hinges.**
+***NOTE: heat set insert holes are in a new location so you will have to reposition your bottom panel clips and hinges.***
 
 ### Printing
   * Default voron settings
