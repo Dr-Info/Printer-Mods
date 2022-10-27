@@ -1,7 +1,7 @@
-#CYCLOPS
+# CYCLOPS
 This is a modded version of stealthburner for a nozzle camera.
 
-***Under construction therefore not finalized. Currently assessing pathway for OV5640 camera FC.
+***Under construction therefore not finalized. Currently assessing pathway for OV5640 camera FC.***8
 
 ### Printing
   * Default voron settings
