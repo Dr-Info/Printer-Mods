@@ -7,8 +7,8 @@ This is a modded version of stealthburner for a nozzle camera.
   * Default voron settings
   * No supports needed
 
-![Cyclops](Images/ISO_MFL.JPG)
+![Cyclops](Images/ISO_MFL.jpg)
 
-![Cyclops](Images/ISO_LFL.JPG)
+![Cyclops](Images/ISO_LFL.jpg)
 
-![Cyclops](Images/ISO_LRL.JPG)
+![Cyclops](Images/ISO_LRL.jpg)
