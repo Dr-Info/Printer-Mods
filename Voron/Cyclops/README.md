@@ -17,7 +17,7 @@ Longer Cable: https://www.aliexpress.us/item/3256803896166623.html?spm=a2g0o.ord
 
 ***Note: I would advise sticking with the fixed focal cameras as the AF might have issues with focusing due to fast ptint moves. You will need at least a 78mm long cable. I used a 300mm cable for my 2.4 300^3 which has the Pi mounted at the front of the printer. My current setup is the OV5640 60 degree module replaced with a OV5640 68 degree 78mm camera and a 300mm cable to the Pi.***
 
-Installation tips:
+###Installation tips:
 1. Run the the 5pin to USB with your bowden tube and secure it to prevent the cable from wondering during printing. Reason being the cable is made of PVC which isn't ideal for drag chains. If you plan to make your own cable and place in drag chain it needs to be shielded cable for the signal wires.
 2. Adjust the focus and then place some clear nail polish or super glue to prevent loss focus.
 3. Clean the lense periodically with IPA.
