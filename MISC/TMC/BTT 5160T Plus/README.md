@@ -20,7 +20,12 @@ Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal
   * No supports needed
 
 ### BOM
-**10mm thick fan per mount**
+**3010 or 4010 Fan per fan mount**
 Item | Size | Qty
 --- | --- | ---
-SHCS/BHCS | M3x12 or 14 (max 16mm for 5010) | 4
+SHCS/BHCS | M3x12 or 14 | 4
+
+**5010 Fan per fan mount**
+Item | Size | Qty
+--- | --- | ---
+SHCS/BHCS | M3x12 (max 16) | 4
