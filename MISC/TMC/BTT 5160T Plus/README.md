@@ -15,7 +15,7 @@ The offset mounts for the MCU include a left, right and center to allow the user
 Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal air cooling.
 
 ### Printing
-  * Print 2 fan mounts per BTT 5160T+ mount
+  * Print 2 fan mounts per BTT 5160T Plus mount
   * Default voron settings
   * No supports needed
 
