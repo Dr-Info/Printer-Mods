@@ -29,3 +29,5 @@ SHCS/BHCS | M3x12 or 14 | 4
 Item | Size | Qty
 --- | --- | ---
 SHCS/BHCS | M3x12 (max 16) | 4
+
+![Top Corner Cable Cover](Images/5160T_plus_mount.JPG)
