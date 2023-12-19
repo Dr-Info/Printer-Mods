@@ -6,7 +6,7 @@ Using the M3 SHCS/BHCS
 
 ### Printing
   * Print 1 mount per pair BTT 5160T Plus
-  * Print 2 Voron PCB DIN Clip
+  * Print 2 [Voron PCB DIN Clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl) (Not needed for 2020 bracket)
   * Print 2 brackets per mount (optional)
   * Default voron settings
   * No supports needed
