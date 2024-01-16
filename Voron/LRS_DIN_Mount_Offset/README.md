@@ -16,7 +16,3 @@ Self Tapping Screw | M2x10 | 4 | DIN Mount with LRS Offset
 BHCS | M5x10 | 1 | PSU Stabilizer
 BHCS | M4x6 | 5 | 4x-LRS Offset and 1x-PSU Stabilizer
 T-Nut | M5-2020 | 1 | PSU Stabilizer
-
-![Top Corner Cable Cover](Images/5160T_plus_mount.jpg)
-![Top Corner Cable Cover](Images/5160T_plus_mount_top.jpg)
-![Top Corner Cable Cover](Images/5160T_plus_mount_bottom.jpg)
