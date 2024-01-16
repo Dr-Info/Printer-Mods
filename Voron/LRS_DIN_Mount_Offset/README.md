@@ -12,7 +12,7 @@ This allows you to offset the LRS PSU to add an additional LRS PSU to the same D
 **per LRS Offset and Stabilizer**
 Item | Size | Qty | Comment 
 --- | --- | --- | ---
-Self Tapping Screw | M2x10 | 4 | DIN Mount with LRS Offset
+Self Tapping Screw | M2x10 | 4 | DIN Mount with LRS Offset Mount
 BHCS | M5x10 | 1 | PSU Stabilizer
-BHCS | M4x6 | 5 | 4x-LRS Offset and 1x-PSU Stabilizer
+BHCS | M4x6 | 5 | 4x-LRS Offset Mount and 1x-PSU Stabilizer
 T-Nut | M5-2020 | 1 | PSU Stabilizer
