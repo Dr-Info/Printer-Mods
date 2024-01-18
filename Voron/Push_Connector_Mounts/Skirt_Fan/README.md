@@ -1,4 +1,4 @@
-# Push Connector Mount for Voron V2.4 and VT Skirt Fan
+# Push Connector Mount for Voron V2.4 and VT Side Fan Supports
 
 This allows you to mount Universal Push Connectors or WAGO 221 using the side fan supports ideally for skirt fans.
 This mod will only fit the following push connectors:
