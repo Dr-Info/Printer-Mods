@@ -13,7 +13,6 @@ This mod will only fit the following push connectors:
   * No supports needed
 
 ### BOM
-**per LRS Offset and Stabilizer**
 Item | Size | Qty | Comment 
 --- | --- | --- | ---
 Push Connector | 3 or 5 port | 2 | per mount
