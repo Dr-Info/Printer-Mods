@@ -1,4 +1,4 @@
-# Push Connector Mount on Voron V2.4 and VT Skirt Fan
+# Push Connector Mount for Voron V2.4 and VT Skirt Fan
 
 This allows you to use Universal Push Connectors or WAGO 221 ideally for skirt fans.
 ### Printing
