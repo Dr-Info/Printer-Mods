@@ -17,3 +17,5 @@ Item | Size | Qty | Comment
 --- | --- | --- | ---
 Lever Connector | 3 or 5 port | 2 | per mount
 BHCS | M5x16 | 1 | per mount
+
+![Side_Fan_Support](Images/lever_connector_side_fan_support.jpg)
