@@ -36,6 +36,6 @@ Item | Size | Qty | Comment
 SHCS/BHCS | M3x12 (max 16) | 4 | Secure fan mount and TMC to TMC mount
 SHCS/BHCS | M3x12 (max 16) | 4 | 3010, 4010 or 5010
 
-![Top Corner Cable Cover](Images/5160T_plus_mount.jpg)
-![Top Corner Cable Cover](Images/5160T_plus_mount_top.jpg)
-![Top Corner Cable Cover](Images/5160T_plus_mount_bottom.jpg)
+![BTT 5160T Plus](Images/5160T_plus_mounts.jpg)
+![BTT 5160T Plus](Images/5160T_plus_mount_top.jpg)
+![BTT 5160T Plus](Images/5160T_plus_mount_bottom.jpg)
